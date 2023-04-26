@@ -15,6 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seowoo6131)](https://solved.ac/seowoo6131/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunjin6131)](https://github.com/eunjin6131/github-readme-stats)
-
-
